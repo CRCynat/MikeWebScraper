@@ -13,7 +13,7 @@ querystring = {
 
 # Set up request headers, including API key and host information
 headers = {
-	"x-rapidapi-key": "e538ff38fdmshd466fa5f6d3ef96p180282jsn8cfa9a012cb1",
+	"x-rapidapi-key": "YOUR API KEY",
 	"x-rapidapi-host": "active-jobs-db.p.rapidapi.com"
 }
 
